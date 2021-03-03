@@ -5,6 +5,8 @@ package ejercicio1;
  */
 public class PuertaAnd2 {
     
+    // Nuevo comentario 
+    
     private boolean a;
     private boolean b;
     
